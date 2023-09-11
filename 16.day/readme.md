@@ -4,7 +4,7 @@
   </a>
 
   <a class="header-badge" target="_blank" href="https://github.com/mrvozturk">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+   
   </a>
 
 <sub>Author:
