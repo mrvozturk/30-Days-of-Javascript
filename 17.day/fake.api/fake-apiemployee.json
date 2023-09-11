@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "merve öztürk",
+      "department": "bilişim",
+      "salary": "3000",
+      "id": 3
+    },
+    {
+      "name": "Hüseyin Varis",
+      "department": "bilişim",
+      "salary": "0000",
+      "id": 4
+    },
+    {
+      "name": "merve",
+      "department": "bilişim",
+      "salary": 3000,
+      "id": 5
+    }
+  ]
+}

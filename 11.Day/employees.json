@@ -1,0 +1,17 @@
+[
+    {
+        "name": "John Wick",
+        "department": "İnformatics",
+        "salary": "20000"
+    },
+    {
+        "name": "John Jack",
+        "department": "İnformatics",
+        "salary": "25000"
+    },
+    {
+        "name": "John Black",
+        "department": "İnformatics",
+        "salary": "30000"
+    }
+]
