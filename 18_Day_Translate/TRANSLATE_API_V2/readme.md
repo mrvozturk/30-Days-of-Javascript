@@ -94,8 +94,7 @@
             url: 'https://rapid-translate-multi-traduction.p.rapidapi.com/t',
             headers: {
               'content-type': '',
-              'X-RapidAPI-Key':
-               ,
+              'X-RapidAPI-Key': '',
               'X-RapidAPI-Host':
                 ''
             },
