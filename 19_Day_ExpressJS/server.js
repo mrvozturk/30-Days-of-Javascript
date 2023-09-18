@@ -31,7 +31,7 @@ app.post("/users", (req, res, next) => {
 
 app.put("/users/:id", (req, res, next) => {
     const id = parseInt(req.params.id);
-    for (let i = 0; i < users.length; i++) { // "length" yazım hatası düzeltildi
+    for (let i = 0; i < users.length; i++) { 
         if (users[i].id === id) {
             users[i] = {
                 ...users[i],
