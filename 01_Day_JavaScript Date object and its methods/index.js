@@ -1,7 +1,6 @@
 //SECTION - JavaScript Fundamentals Include Data Types-Objects and Operators 
 
 
-
 //SECTION -
 //Javascript Beginning
 /*var a=10;
